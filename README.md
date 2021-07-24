@@ -19,8 +19,6 @@
 
 И ставит статье соотвествующий тег.
 
-Подробнее в статье в блоге: https://rekarma.ru/2019/10/30/avtomaticheskie-tegi-v-servise-pocket.html
-
 Используется официальный Pocket API. Для работы требуется https://github.com/jshawl/pocket-oauth-php
 
 Скрипт можно поставить на сервер в CRON, чтобы постоянно обновлять теги для новых страниц.
